@@ -1,0 +1,86 @@
+[
+    
+    {
+        "id": 7,
+        "name": " Ami Silicone Kitchenware Set",
+        "price": 2999,
+        "image": "images/ami.jpeg"
+    },
+    
+    {
+        "id": 7,
+        "name": " Sieve",
+        "price": 99,
+        "image": "images/sieve.jfif"
+    },
+    
+    {
+        "id": 7,
+        "name": " Utensils stand",
+        "price": 599,
+        "image": "images/utensils stand.jfif"
+    }
+    ,
+    {
+        "id": 7,
+        "name": " Spatula",
+        "price": 199,
+        "image": "images/Spatula.jfif"
+    }
+    ,
+    {
+        "id": 7,
+        "name": " ladle",
+        "price": 299,
+        "image": "images/Ladle.jfif"
+    }
+    ,
+
+
+    {
+        "id": 7,
+        "name": " Whisk",
+        "price": 5000,
+        "image": "images/Whisk.jfif"
+    }
+    ,
+    {
+        "id": 1,
+        "name": "Cooking Pots",
+        "price": 2999,
+        "image": "./images/k1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Grill Pan",
+        "price": 3999,
+       "image": "images/k2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Spoons",
+        "price": 1000,
+       "image": "images/k3.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Non Stick Tawa",
+        "price": 499,
+       "image": "images/k4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hawkins",
+        "price": 5000,
+        "image": "images/k5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cup stand",
+        "price": 120,
+        "image": "images/cup_stands.jpg"
+    }
+    
+
+]
